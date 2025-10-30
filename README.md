@@ -95,10 +95,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yugshah7777&theme=tokyonight" alt="GitHub streak stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yugshah7777&theme=react-dark" alt="Activity Graph" />
-</p>
-
 ---
 
 ### 🤝 Connect With Me
